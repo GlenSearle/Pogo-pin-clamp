@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Ebene_1"
+   data-name="Ebene 1"
+   viewBox="0 0 595.28 170.08"
+   version="1.1"
+   sodipodi:docname="empty_logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata4158">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Zeichenfläche 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2946"
+     inkscape:window-height="1651"
+     id="namedview4156"
+     showgrid="false"
+     inkscape:zoom="1.1708775"
+     inkscape:cx="297.64001"
+     inkscape:cy="85.040001"
+     inkscape:window-x="134"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Ebene_1" />
+  <defs
+     id="defs4079">
+    <style
+       id="style4077">.cls-1{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title4081">Zeichenfläche 1</title>
+  <path
+     style="fill:#d40000"
+     d="m 114.66,153.86 c -7.26781,-0.85998 -13.62486,-5.18967 -19.859932,-8.76945 C 76.196181,133.1057 61.703118,114.95531 53.502039,94.460637 52.487421,87.394407 53.224442,80.163104 53,73.023327 53.138163,63.674446 52.710271,54.290582 53.239388,44.965731 54.192808,38.40674 60.560687,35.755773 65.991784,33.670152 81.044768,27.33004 96.035689,20.832057 111.12763,14.591041 c 6.51067,-1.916617 12.23565,2.604911 18.12653,4.631085 13.54714,5.791442 27.16349,11.43063 40.66708,17.31784 5.6667,2.784046 6.84897,9.34887 6.40876,15.041355 -0.0442,13.536209 0.089,27.077125 -0.0675,40.610358 -2.2215,9.063591 -7.60458,17.068131 -12.69026,24.784281 -11.57584,16.32434 -27.62869,30.20798 -46.75434,36.68824 l -1.18924,0.15656 z m 0,-128.77 C 97.927148,32.018084 81.213879,39.122761 64.553339,46.239081 63.235024,48.129669 64.382982,50.838732 64,53.02271 64.074361,65.843735 63.851952,78.701995 64.11,91.5 c 9.535863,22.58465 27.423583,42.47615 50.5706,51.36285 23.19715,-8.97074 41.22498,-28.91606 50.62023,-51.661976 0.007,-14.771517 0.13117,-29.579489 -0.0612,-44.335856 -1.43906,-1.794177 -4.25123,-1.918596 -6.18541,-3.095349 C 144.26965,37.570296 129.37965,31.155975 114.66,25.09 Z"
+     id="path4153"
+     inkscape:connector-curvature="0" />
+</svg>
